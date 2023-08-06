@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ishtiak-20
-- 👀 I’m interested in web development, machine learning and artificial intelligence
-- 🌱 I’m currently learning web develoment
-- 💞️ I’m looking to collaborate on web application development
+- 👀 I’m interested in mobile app development including both android and ios, web development, machine learning and artificial intelligence
+- 🌱 I’m currently learning mobile app development
+- 💞️ I’m looking to collaborate on mobile app development
 - 📫 You can reach me at surricx200w@gmail.com
 
 <!---
