@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ishtiak-20
+- 👋 Hi, I’m @Ishtiaque-A
 - 👀 I’m interested in mobile app development including both android and ios, web development, machine learning and artificial intelligence
 - 🌱 I’m currently learning mobile app development
 - 💞️ I’m looking to collaborate on mobile app development
