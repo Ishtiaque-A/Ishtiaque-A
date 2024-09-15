@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Ishtiaque-A
-- 👀 I’m interested in mobile app development including both android and ios, web development, machine learning and artificial intelligence
-- 🌱 I’m currently learning mobile app development
-- 💞️ I’m looking to collaborate on mobile app development
-- 📫 You can reach me at surricx200w@gmail.com
+### Hi, I'm Ishtiaque Ahamed 👋  
+**Full-Stack Software Developer | Web & Mobile Focused**  
 
-<!---
-Ishtiak-20/Ishtiak-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a passionate full-stack developer with expertise in creating seamless, responsive, and efficient applications for both web and mobile platforms. I thrive on solving complex problems, building intuitive user experiences, and utilizing cutting-edge technologies.
+
+**🔨 My Skills:**  
+- **Front-End:** React.js, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript/TypeScript  
+- **Back-End:** Node.js, Express, MongoDB, Firebase  
+- **Mobile Development:** React Native, Flutter  
+- **Other Technologies:** Git, Docker, REST APIs, GraphQL
+
+I love working on impactful projects and am constantly learning new technologies to sharpen my skills. Check out my repositories to see what I’ve been building!
+
+Feel free to reach out or collaborate on projects. Let’s build something awesome together!
+
